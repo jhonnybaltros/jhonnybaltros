@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on A Brazilian Bets WebSite
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: jhonnybaixo@gmail.com
 - 😄 Pronouns: He/His
 -->
 
