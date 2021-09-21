@@ -6,4 +6,5 @@
 - 😄 Pronouns: He/His
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonnybaltros)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonnybaltros&show_icons=true&theme=radical&count_private=true)
+
