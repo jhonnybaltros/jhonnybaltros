@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello i'm Baltros 🧙🏼‍♂️
 
 - 🔭 I’m currently working on A Brazilian Bets WebSite
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Typescript
 - 📫 How to reach me: jhonnybaixo@gmail.com
 - 😄 Pronouns: He/His
 -->
