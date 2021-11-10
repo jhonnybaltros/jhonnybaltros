@@ -1,7 +1,7 @@
 ### Hello i'm Baltros 🧙🏼‍♂️
 
-- 🔭 I’m currently working on A Brazilian Bets Website
-- 🌱 I’m currently learning C# and Typescript
+- 🔭 Front-End developer at Descartes Greenmile
+- 🌱 I’m currently geting better at Spring Boot and Typescript
 - 📫 How to reach me: jhonnybaixo@gmail.com
 - 😄 Pronouns: He/His
 -->
