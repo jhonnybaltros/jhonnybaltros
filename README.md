@@ -1,6 +1,6 @@
 ### Hello i'm Baltros 🧙🏼‍♂️
 
-- 🔭 Front-End developer at Descartes Greenmile
+- 🔭 Jr. Front-End developer at Descartes Greenmile
 - 🌱 I’m currently geting better at Spring Boot and Typescript
 - 📫 How to reach me: jhonnybaixo@gmail.com
 - 😄 Pronouns: He/His
