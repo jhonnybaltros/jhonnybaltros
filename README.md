@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/His
 -->
 
-<div align="center">
+<div>
   <a href="https://github.com/jhonnybaltros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonnybaltros&show_icons=true&theme=tokyonight&include_all_commits,prs=true&count_private=true&hide=issues"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnybaltros&layout=compact&langs_count=8&count_private=true&theme=tokyonight"/>
