@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnybaltros&layout=compact&langs_count=8&count_private=true&theme=tokyonight"/>
 </div>
 <div>
-<img height="100em" src="https://github-profile-trophy.vercel.app/?username=jhonnybaltros&rank=S,AAA,A,B,C&column=4&theme=tokyonight&margin-w=3&&margin-h=4&no-frame=true">
+<img height="100em" src="https://github-profile-trophy.vercel.app/?username=jhonnybaltros&row=1&column=5&theme=discord">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="jhonny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
