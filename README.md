@@ -10,6 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonnybaltros&show_icons=true&theme=tokyonight&include_all_commits,prs=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnybaltros&layout=compact&langs_count=8&count_private=true&theme=tokyonight"/>
 </div>
+<div>
+<img height="100em" src="https://github-profile-trophy.vercel.app/?username=jhonnybaltros&rank=S,AAA,A,B,C&column=4&theme=tokyonight&margin-w=3&&margin-h=4&no-frame=true">
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="jhonny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jhonny-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
