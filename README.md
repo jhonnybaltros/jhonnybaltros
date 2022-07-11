@@ -2,8 +2,8 @@
 
 - 🔭 Jr. Front-End II developer at Descartes Greenmile
 - 🌱 I’m currently geting better at Spring Boot and Typescript
-- 📫 How to reach me: jhonnybaixo@gmail.com
--->
+- 📫 https://www.linkedin.com/in/andersonjhonny
+
 
 <div>
   <a href="https://github.com/jhonnybaltros">
