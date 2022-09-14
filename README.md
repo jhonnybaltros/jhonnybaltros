@@ -4,10 +4,13 @@
 - 🌱 I’m currently geting better at Spring Boot and Typescript
 - 📫 https://www.linkedin.com/in/andersonjhonny
 
-
 <div>
   <a href="https://github.com/jhonnybaltros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonnybaltros&show_icons=true&theme=tokyonight&include_all_commits,prs=true&count_private=true"/>
+</div>
+<div>
+  <a href="https://github.com/jhonnybaltros">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnybaltros&layout=compact&private=true&theme=tokyonight"/>
 </div>
 <div>
 <img height="115em" src="https://github-profile-trophy.vercel.app/?username=jhonnybaltros&row=1&column=4&theme=discord">
@@ -19,5 +22,6 @@
   <img align="center" alt="jhonny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jhonny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jhonny-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="jhonny-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">   
+  <img align="center" alt="jhonny-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="jhonny-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">   
 </div>
