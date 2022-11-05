@@ -1,7 +1,6 @@
 ### Hello i'm Baltros 🧙🏼‍♂️
 
-- 🔭 Jr. Front-End II developer at Descartes Greenmile
-- 🌱 I’m currently geting better at Spring Boot and Typescript
+- 🔭 Software developer at Descartes Brazil
 - 📫 https://www.linkedin.com/in/andersonjhonny
 
 <div>
