@@ -39,14 +39,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 
 <div>
-  <a href="https://github.com/jhonnybaltros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonnybaltros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-<div>
-  <a href="https://github.com/jhonnybaltros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnybaltros&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
-<div>
 <img height="115em" src="https://github-profile-trophy.vercel.app/?username=jhonnybaltros&row=1&column=4&theme=discord">
 </div>
 
