@@ -1,6 +1,7 @@
 # Hello i'm Baltros 🧙🏼‍♂️
 
 - 🔭 Software developer at Descartes Brazil
+- Volunteer Backend developer at Manga Easy
 - 📫 https://www.linkedin.com/in/andersonjhonny
 
 # 💻 Tech Stack:
