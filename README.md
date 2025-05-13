@@ -1,6 +1,6 @@
 # Hello i'm Baltros 🧙🏼‍♂️
 
-- 🔭 Software developer at Descartes Brazil
+- 🔭 SRE at Descartes Brazil
 - 📫 https://www.linkedin.com/in/andersonjhonny
 
 # 💻 Tech Stack:
