@@ -39,6 +39,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 
 <div>
-<img height="115em" src="https://github-profile-trophy.vercel.app/?username=jhonnybaltros&row=1&column=10&theme=discord">
+<img height="115em" src="https://github-profile-trophy.vercel.app/?username=jhonnybaltros&row=1&column=5&theme=discord">
 </div>
 
