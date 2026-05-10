@@ -1,6 +1,6 @@
 # Hello, I'm Jhonny 🧙🏼‍♂️
 
-- 🔭 Building AI voice agents & platform infrastructure at Walaw
+- 🔭 Building AI agents & platform infrastructure
 - 🏢 SRE at Descartes Brazil
 - 📫 https://www.linkedin.com/in/andersonjhonny
 
